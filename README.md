@@ -4,7 +4,7 @@
 
 The final dataset used in the analysis is located in:
 
-data/processed_data/final_zip_dataset.csv
+data/processed_data/final.csv
 
 This dataset is constructed by merging:
 
