@@ -106,7 +106,7 @@ def main():
     # Define file and city mapping
     files_cities = {
         'Los Angeles.gz': 'Los Angeles',
-        'San Deigo.gz': 'San Diego',
+        'San Diego.gz': 'San Diego',
         'San Francisco.gz': 'San Francisco'
     }
     
